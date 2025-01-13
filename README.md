@@ -49,9 +49,7 @@
 
 <div style="display: flex;">
    <img src="https://skillicons.dev/icons?i=figma" />
-   <div style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 7px; margin-left: 8px">
-   <img style="background-color:transparent" src="./img/rive.svg">
-   </div>
+   <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 7px; margin-left: 8px"" src="./img/rive.svg">
 </div>
 
 ## 🖥️ My devices and periferals
