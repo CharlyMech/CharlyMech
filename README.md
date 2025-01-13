@@ -101,10 +101,7 @@ This is a tough one.. **I'M A KEYBOARD ENTHUSIAST!** Here you have some of my fa
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlyMech&theme=dark" alt="charlymech" /></a> </p>
 
-<div style="display: flex; flex-direction: row; align-items: flex-end; jsutify-content:center; gap: 15px">
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlymech&show_icons=true&locale=en&theme=dracula" alt="charlymech" /></div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlymech&theme=dracula" alt="charlymech" /></div>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=charlymech&show_icons=true&locale=en&theme=dracula) ![](https://github-readme-streak-stats.herokuapp.com/?user=charlymech)
 
 ## 📫 Contact
 
