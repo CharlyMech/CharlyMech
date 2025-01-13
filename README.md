@@ -31,15 +31,10 @@
 
 <div style="display: flex;">
    <img src="https://skillicons.dev/icons?i=sklearn,selenium,opencv" />
-   <div style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px">
-   <img style="background-color: #242938; width: 38px; height: 38px;" src="./img/pandas.svg" >
-   </div>
-   <div style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px">
-           <img style="background-color: #242938; width: 38px; height: 38px;" src="./img/numpy.svg" >
-   </div>
-   <div style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px">
-      <img style="background-color: #242938; width: 38px; height: 38px;" src="./img/matplotlip.svg" >
-   </div>
+   <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px" src="./img/pandas.svg" >
+   <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px" src="./img/numpy.svg" >
+   <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px" src="./img/matplotlib.svg" >
+
 </div>
 
 ### 📦 Other tools
@@ -55,7 +50,7 @@
 <div style="display: flex;">
    <img src="https://skillicons.dev/icons?i=figma" />
    <div style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 7px; margin-left: 8px">
-   <img style="background-color: #242938; width: 38px; height: 38px;" src="./img/rive.svg">
+   <img style="background-color:transparent" src="./img/rive.svg">
    </div>
 </div>
 
