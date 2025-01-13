@@ -31,7 +31,7 @@
 
 <div style="display: flex;">
    <img src="https://skillicons.dev/icons?i=sklearn,selenium,opencv" />
-   <img style="background-color: #242938; width: 48px; height: 48px; border-radius: 40px; padding: 10px; margin-left: 20px" src="./img/pandas.svg" >
+   <img style="background-color: #242938; width: 48px; height: 48px; border-radius: 40px; padding: 10px; margin-left: 50px" src="./img/pandas.svg" >
    <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px" src="./img/numpy.svg" >
    <img style="background-color: #242938; width: 38px; height: 38px; border-radius: 10px; padding: 5px; margin-left: 8px" src="./img/matplotlib.svg" >
 
