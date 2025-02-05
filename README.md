@@ -39,7 +39,7 @@
 
 ### 📦 Other tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,azure,bash,powershell,npm,postman,vite,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,azure,bash,powershell,npm,vite,vercel,vscode" />
 
 ### 💾 Databases
 
