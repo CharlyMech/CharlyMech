@@ -9,7 +9,7 @@
 
 -  🌱 What I want to learn next: **Jetpack Compose & KMP**.
 
--  📚 I’m currently studying: **AI and Big Data specialization couse** at [IEDIB](https://iedib.net/).
+-  📚 I’m currently studying: **AI and Big Data specialization course** at [IEDIB](https://iedib.net/).
 
 -  📝 I also try to write articles on [Medium](https://medium.com/@CharlyMech).
 
