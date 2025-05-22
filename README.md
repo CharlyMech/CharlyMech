@@ -72,7 +72,7 @@
    <img src="./img/labels/Android.png" alt="Android" height="30"/>
    <img src="./img/labels/Azure.png" alt="Azure" height="30"/>
    <img src="./img/labels/Git.png" alt="Git" height="30"/>
-   <img src="./img/labels/GitHub.png" alt="GitHub" height="30"/>
+   <img src="./img/labels/Github.png" alt="GitHub" height="30"/>
    <img src="./img/labels/Linux.png" alt="Linux" height="30"/>
    <img src="./img/labels/Proxmox.png" alt="Proxmox" height="30"/>
    <img src="./img/labels/Spark.png" alt="Spark" height="30"/>
