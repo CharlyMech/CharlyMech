@@ -3,21 +3,39 @@
 <p style="font-size: 48px; text-align: center; margin-top:-28px"><b>Hello World!</b></p>
 <p style="font-size: 22px; text-align: center;">My name is Carlos and I am a software developer from Spain, mainly specialized in cross-platform development.</p>
 
+<!-- -  💼 Currently working at: **[Company Name]** as a **[Job Title]** -->
+
+-  🤝 Available for: **Full-time roles** or **Freelance projects**
+
 -  🔭 I’m currently working on: [WebViewer](https://github.com/CharlyMech/webviewer) & [My personal portfolio](https://charlymech.com/)
 
 -  🌳 I’m currently learning: **React Native** and **GitHub Actions**.
 
 -  🌱 What I want to learn next: **Jetpack Compose & KMP**.
 
--  📚 I’m currently studying: **AI and Big Data specialization course** at [IEDIB](https://iedib.net/).
+<!-- -  📚 I’m currently studying: **AI and Big Data specialization course** at [IEDIB](https://iedib.net/). -->
 
 -  📝 I also try to write articles on [Medium](https://medium.com/@CharlyMech).
+
+-  💬 Ask me about: **Mobile development** or **Star Wars**.
+
+-  ⚡ Fun fact: I hated JavaScript for a long time 😶.
 
 ## 🛠️ Tech Stack
 
 ### 👨🏽‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=dart,kotlin,java,html,css,javascript,typescript,python,latex,md" />
+<div style="display: flex; gap:10px">
+<img src="./img/labels/Dart.png" alt="Dart" height="30"/>
+<img src="./img/labels/Python.png" alt="Python" height="30"/>
+<img src="./img/labels/TypeScript.png" alt="TypeScript" height="30"/>
+<img src="./img/labels/JavaScript.png" alt="JavaScript" height="30"/>
+<img src="./img/labels/Kotlin.png" alt="Kotlin" height="30"/>
+<img src="./img/labels/Java.png" alt="Java" height="30"/>
+<img src="./img/labels/PHP.png" alt="PHP" height="30"/>
+</div>
+
+<!-- <img src="https://skillicons.dev/icons?i=dart,kotlin,java,html,css,javascript,typescript,python,latex,md" /> -->
 
 #### 📱 For mobile app development
 
