@@ -26,48 +26,76 @@
 ### 👨🏽‍💻 Languages
 
 <div style="display: flex; gap:10px">
-<img src="./img/labels/Dart.png" alt="Dart" height="30"/>
-<img src="./img/labels/Python.png" alt="Python" height="30"/>
-<img src="./img/labels/TypeScript.png" alt="TypeScript" height="30"/>
-<img src="./img/labels/JavaScript.png" alt="JavaScript" height="30"/>
-<img src="./img/labels/Kotlin.png" alt="Kotlin" height="30"/>
-<img src="./img/labels/Java.png" alt="Java" height="30"/>
-<img src="./img/labels/PHP.png" alt="PHP" height="30"/>
+   <img src="./img/labels/Dart.png" alt="Dart" height="30"/>
+   <img src="./img/labels/Python.png" alt="Python" height="30"/>
+   <img src="./img/labels/TypeScript.png" alt="TypeScript" height="30"/>
+   <img src="./img/labels/JavaScript.png" alt="JavaScript" height="30"/>
+   <img src="./img/labels/Kotlin.png" alt="Kotlin" height="30"/>
+   <img src="./img/labels/Java.png" alt="Java" height="30"/>
+   <img src="./img/labels/PHP.png" alt="PHP" height="30"/>
+   <img src="./img/labels/Bash.png" alt="Bash" height="30"/>
 </div>
-
-<!-- <img src="https://skillicons.dev/icons?i=dart,kotlin,java,html,css,javascript,typescript,python,latex,md" /> -->
 
 #### 📱 For mobile app development
 
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,materialui" />
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/Flutter.png" alt="Flutter" height="30"/>
+   <img src="./img/labels/Expo.png" alt="Expo" height="30"/>
+   <img src="./img/labels/Jetpack Compose.png" alt="Jetpack Compose" height="30"/>
+</div>
 
 #### 🌐 For web development
 
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,angular,nest,fastapi" />
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/React.png" alt="React" height="30"/>
+   <img src="./img/labels/NextJS.png" alt="NextJS" height="30"/>
+   <img src="./img/labels/NestJS.png" alt="NestJS" height="30"/>
+   <img src="./img/labels/Angular.png" alt="Angular" height="30"/>
+   <img src="./img/labels/FastAPI.png" alt="FastAPI" height="30"/>
+</div>
 
 #### 🧠 For data science and AI
 
-<div style="display: flex;">
-   <img src="https://skillicons.dev/icons?i=sklearn,selenium,opencv" />
-   <img style="background-color: #242938; width: 48px; height: 48px;" src="./img/pandas.svg" >
-   <img style="background-color: #242938; width: 48px; height: 48px; " src="./img/numpy.svg" >
-   <img style="background-color: #242938; width: 48px; height: 48px; " src="./img/matplotlib.svg" >
-
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/Scikitlearn.png" alt="Scikitlearn" height="30"/>
+   <img src="./img/labels/Numpy.png" alt="Numpy" height="30"/>
+   <img src="./img/labels/Pandas.png" alt="Pandas" height="30"/>
+   <img src="./img/labels/Matplotlib.png" alt="Matplotlib" height="30"/>
+   <img src="./img/labels/Keras.png" alt="Keras" height="30"/>
+   <img src="./img/labels/Scikitlearn.png" alt="Scikitlearn" height="30"/>
+   <img src="./img/labels/Jupyter.png" alt="Jupyter" height="30"/>
 </div>
 
 ### 📦 Other tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,azure,bash,powershell,npm,vite,vercel,vscode" />
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/Android.png" alt="Android" height="30"/>
+   <img src="./img/labels/Azure.png" alt="Azure" height="30"/>
+   <img src="./img/labels/Git.png" alt="Git" height="30"/>
+   <img src="./img/labels/GitHub.png" alt="GitHub" height="30"/>
+   <img src="./img/labels/Linux.png" alt="Linux" height="30"/>
+   <img src="./img/labels/Proxmox.png" alt="Proxmox" height="30"/>
+   <img src="./img/labels/Spark.png" alt="Spark" height="30"/>
+   <img src="./img/labels/Kafka.png" alt="Kafka" height="30"/>
+   <img src="./img/labels/Hadoop.png" alt="Hadoop" height="30"/>
+</div>
 
 ### 💾 Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongo,postgres,sqlite" />
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/MySQL.png" alt="MySQL" height="30"/>
+   <img src="./img/labels/PostgreSQL.png" alt="PostgreSQL" height="30"/>
+   <img src="./img/labels/SQLite.png" alt="SQLite" height="30"/>
+   <img src="./img/labels/Mongo.png" alt="MongoDB" height="30"/>
+   
+</div>
 
 ### 🖼️ Design tools
 
-<div style="display: flex;">
-   <img src="https://skillicons.dev/icons?i=figma" />
-   <img style="background-color: #242938; width: 48px; height: 48px;"" src="./img/rive.svg">
+<div style="display: flex; gap:10px">
+   <img src="./img/labels/Figma.png" alt="Figma" height="30"/>
+   <img src="./img/labels/Rive.png" alt="Rive" height="30"/>
+   <img src="./img/labels/Lottie.png" alt="Lottie" height="30"/>
 </div>
 
 ## 🖥️ My devices and periferals
