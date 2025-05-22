@@ -1,7 +1,8 @@
 ![Banner](./img/banner.png)
 
-<p style="font-size: 48px; text-align: center; margin-top:-28px"><b>Hello World!</b></p>
-<p style="font-size: 22px; text-align: center;">My name is Carlos and I am a software developer from Spain, mainly specialized in cross-platform development.</p>
+# Hello world!
+
+#### My name is Carlos and I am a software developer from Spain, mainly specialized in cross-platform development.
 
 <!-- -  💼 Currently working at: **[Company Name]** as a **[Job Title]** -->
 
