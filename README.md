@@ -1,6 +1,6 @@
 ![Banner](./img/banner.png)
 
-[](https://komarev.com/ghpvc/?username=charlymech)
+![](https://komarev.com/ghpvc/?username=charlymech)
 
 # Hello world!
 
