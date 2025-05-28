@@ -1,5 +1,7 @@
 ![Banner](./img/banner.png)
 
+[](https://komarev.com/ghpvc/?username=charlymech)
+
 # Hello world!
 
 #### My name is Carlos and I am a software developer from Spain, mainly specialized in cross-platform development.
