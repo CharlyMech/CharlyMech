@@ -8,7 +8,8 @@
 
 <!-- -  💼 Currently working at: **[Company Name]** as a **[Job Title]** -->
 
--  🤝 Available for: **Full-time roles** or **Freelance projects**
+<!-- -  🤝 Available for: **Full-time roles** or **Freelance projects** -->
+-  🤝 Available for: **Freelance projects**
 
 -  🔭 I’m currently working on: [WebViewer](https://github.com/CharlyMech/webviewer) & [My personal portfolio](https://charlymech.com/)
 
