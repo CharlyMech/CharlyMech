@@ -30,7 +30,7 @@
 ### 👨🏽‍💻 Languages
 
 <div style="display: flex; gap:10px">
-   <img src="./img/labels/Dart.png" alt="Dart" height="30"/>
+   <img src="./img/labels/Dart.png" alt="Dart" style="height:45px"/>
    <img src="./img/labels/Python.png" alt="Python" height="30"/>
    <img src="./img/labels/TypeScript.png" alt="TypeScript" height="30"/>
    <img src="./img/labels/JavaScript.png" alt="JavaScript" height="30"/>
