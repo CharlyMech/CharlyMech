@@ -1,6 +1,11 @@
 ![Banner](./img/banner.png)
 
-![](https://komarev.com/ghpvc/?username=charlymech)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=charlymech&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/charlymech?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/charlymech?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/forks/charlymech/webviewer?style=for-the-badge&logo=github" alt="GitHub Forks"/>
+</p>
 
 # Hello world!
 
