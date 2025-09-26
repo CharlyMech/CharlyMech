@@ -4,18 +4,17 @@
 
 # Hello world!
 
-#### My name is Carlos and I am a software developer from Spain, mainly specialized in cross-platform development.
+#### My name is Carlos and I am a FullStack and Mobile software developer from Spain.
 
 <!-- -  💼 Currently working at: **[Company Name]** as a **[Job Title]** -->
 
-<!-- -  🤝 Available for: **Full-time roles** or **Freelance projects** -->
--  🤝 Available for: **Freelance projects**
+-  🤝 Available for: **Full time jobs** and **Freelance projects**
 
 -  🔭 I’m currently working on: [WebViewer](https://github.com/CharlyMech/webviewer) & [My personal portfolio](https://charlymech.com/)
 
--  🌳 I’m currently learning: **React Native** and **GitHub Actions**.
+-  🌳 I’m currently learning: **Jetpack Compose & KMP**.
 
--  🌱 What I want to learn next: **Jetpack Compose & KMP**.
+-  🌱 What I want to learn next: **GitHub Actions**.
 
 <!-- -  📚 I’m currently studying: **AI and Big Data specialization course** at [IEDIB](https://iedib.net/). -->
 
@@ -129,34 +128,64 @@ This is a tough one.. **I'M A KEYBOARD ENTHUSIAST!** Here you have some of my fa
 -  Odin75 with Tecsee purples lubed with tribosis 3203.
 -  Nextime75 with Ajazz&Huano Bananas lubed with Krytox 205g0 and springswaped to double step 57.5gr springs.
 -  DZ60 with Gateron Milky Yellows lubed with Krytox 205g0 and springswaped to 62.5gr springs.
+-  Event the MacBook kyeboard is really nice to use 🫣.
 
 ### 🖱️ My mouse
 
 -  Logitech MX Master 3.
+-  MacBook Pro trackpad or Apple magic trackpad.
 
-<!-- Once I finally deploy something and mantain it... (I'm just a lazy one)
-## 🚀 Deployments
--> Links from:https://raw.githubusercontent.com/igijon/igijon/main/README.md
-[![WebPersonal](https://img.shields.io/badge/Web_Personal-pink?style=for-the-badge&logo=About.me&logoColor=black)](https://igijon.netlify.app/)
-[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igijon/igijon)
-[![NetlifyPersonal](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
-<br>
--->
+## 🚀 Projects I'm most proud of
 
-## 📈 My Workflow
+<!--
+Examples:
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO/TU_REPO)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+[![Vercel](https://img.shields.io/badge/Vercel_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_PROYECTO.vercel.app/)
+
+[![Netlify](https://img.shields.io/badge/Netlify_App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/TU_PROYECTO/deploys)
+ -->
+
+[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/The_Best_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/the-best-program) [![GitHub](https://img.shields.io/badge/WebViewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webviewer)
 
 ## 🏆 My GitHub stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlyMech&theme=dark" alt="charlymech" /></a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=charlymech&show_icons=true&locale=en&theme=dracula) ![](https://github-readme-streak-stats.herokuapp.com/?user=charlymech)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charlymech&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlymech&theme=dracula" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlymech&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=dracula&card_width=1000" alt="Top Languages"/>
+</p>
+
+## 📈 My Workflow
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📫 Contact
 
-You can contact me via LinkedIn:
+You can reach out to me through the following platforms:
 
-<div style="display: flex; align-items:center; justify-content: center">
-<a href="www.linkedin.com/in/carlos-sanchez-recio-77a286243"><img style="width:100px" src="https://skillicons.dev/icons?i=linkedin" /></a>
-</div>
+<p align="center">
+  <a href="https://charlymech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1565C0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linktr.ee/charlymech" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-sanchez-recio-77a286243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:carlossanchezrecio.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="https://www.freelancer.com/u/your-freelancer-id" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
+  </a>
+</p>
