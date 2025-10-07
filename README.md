@@ -151,7 +151,7 @@ Examples:
 [![Netlify](https://img.shields.io/badge/Netlify_App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/TU_PROYECTO/deploys)
  -->
 
-[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/The_Best_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/the-best-program) [![GitHub](https://img.shields.io/badge/WebViewer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webviewer)
+[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/WebWrapper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webwrapper) [![GitHub](https://img.shields.io/badge/The_Best_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/the-best-program)
 
 ## 🏆 My GitHub stats
 
@@ -163,7 +163,10 @@ Examples:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlymech&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=dracula&card_width=1000" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=charlymech&layout=compact&langs_count=10&theme=dracula&card_width=1000&hide=html,css,shell,scss,cmake,makefile,groovy,go,objective-c,c,c++,ruby,rust,perl,jupyter%20notebook,cypher,piglatin,hiveql,dockerfile,hack,pddl"
+    alt="Top Languages"
+  />
 </p>
 
 ## 📈 My Workflow
