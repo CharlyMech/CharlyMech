@@ -184,16 +184,16 @@ You can reach out to me through the following platforms:
   <a href="https://linktr.ee/charlymech" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-sanchez-recio-77a286243" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-sanchez-recio-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:carlossanchezrecio.dev@gmail.com">
+  <a href="mailto:sanchezreciocarlos99@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01305ae43cb74e4ec6?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <a href="https://www.freelancer.com/u/your-freelancer-id" target="_blank">
+  <a href="https://www.freelancer.com/u/CharlyMech?sb=t" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
   </a>
 </p>
