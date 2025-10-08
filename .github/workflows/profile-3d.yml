@@ -15,7 +15,7 @@ jobs:
            env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               USERNAME: ${{ github.repository_owner }}
-              INCLUDED_LANGS: "typescript,java,python,php,dart,javascript,kotlin,astro,swift,flutter"
+              EXCLUDED_LANGS: "html,css,shell,scss,cmake,makefile,groovy,go,objective-c,c,c++,ruby,rust,perl,jupyter%20notebook,cypher,piglatin,hiveql,dockerfile,hack,pddl"
          - name: Commit & Push
            run: |
               git config user.name github-actions
