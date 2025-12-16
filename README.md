@@ -15,7 +15,7 @@
 
 -  🤝 Available for: **Full time jobs** and **Freelance projects**
 
--  🔭 I’m currently working on: [Transia MVP](https://github.com/CharlyMech/transia-mvp)
+-  🔭 I’m currently working on: [Timely](https://github.com/CharlyMech/timely) & [Transia MVP](https://github.com/CharlyMech/transia-mvp)
 
 -  🌳 I’m currently learning: **Jetpack Compose & KMP**.
 
