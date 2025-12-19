@@ -150,8 +150,8 @@ Examples:
 
 [![Netlify](https://img.shields.io/badge/Netlify_App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/TU_PROYECTO/deploys)
  -->
-[![Transia](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/transia-mvp)
-[![Timely](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/timely)
+[![Transia](https://img.shields.io/badge/Transia_MVP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/transia-mvp)
+[![Timely](https://img.shields.io/badge/Timely-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/timely)
 [![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/WebWrapper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webwrapper) [![GitHub](https://img.shields.io/badge/The_Best_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/the-best-program)
 
 ## 🏆 My GitHub stats
