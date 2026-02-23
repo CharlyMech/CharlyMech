@@ -11,13 +11,13 @@
 
 #### My name is Carlos and I am a FullStack and Mobile software developer from Spain.
 
-<!-- -  💼 Currently working at: **[Company Name]** as a **[Job Title]** -->
+-  💼 Currently working at: **Volone** as a **Full Stack Developer**.
 
--  🤝 Available for: **Full time jobs** and **Freelance projects**
+<!-- -  🤝 Available for: -->
 
 -  🔭 I’m currently working on: [Timely](https://github.com/CharlyMech/timely) & [Transia MVP](https://github.com/CharlyMech/transia-mvp)
 
--  🌳 I’m currently learning: **Jetpack Compose & KMP**.
+<!-- -  🌳 I’m currently learning: **Jetpack Compose & KMP**. -->
 
 -  🌱 What I want to learn next: **GitHub Actions**.
 
