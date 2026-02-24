@@ -15,7 +15,7 @@
 
 <!-- -  🤝 Available for: -->
 
--  🔭 I’m currently working on: [Timely](https://github.com/CharlyMech/timely) & [Transia MVP](https://github.com/CharlyMech/transia-mvp)
+-  🔭 I’m currently working on: [Timely](https://github.com/CharlyMech/timely) & [CodeShamer (VSCode Externsion)](https://github.com/CharlyMech/code-shamer)
 
 <!-- -  🌳 I’m currently learning: **Jetpack Compose & KMP**. -->
 
@@ -150,9 +150,11 @@ Examples:
 
 [![Netlify](https://img.shields.io/badge/Netlify_App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/TU_PROYECTO/deploys)
  -->
-[![Transia](https://img.shields.io/badge/Transia_MVP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/transia-mvp)
+
 [![Timely](https://img.shields.io/badge/Timely-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/timely)
-[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/WebWrapper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webwrapper) [![GitHub](https://img.shields.io/badge/The_Best_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/the-best-program)
+[![CodeShamer](https://img.shields.io/badge/CodeShamer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/code-shamer)
+[![Transia](https://img.shields.io/badge/Transia_MVP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/transia-mvp)
+[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/WebWrapper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webwrapper) 
 
 ## 🏆 My GitHub stats
 
