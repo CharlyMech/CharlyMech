@@ -15,7 +15,7 @@
 
 <!-- -  🤝 Available for: -->
 
--  🔭 I’m currently working on: [Hestia](https://github.com/CharlyMech/hestia) & [CodeShamer (VSCode Externsion)](https://github.com/CharlyMech/code-shamer) & [Wheatherlite]([https://github.com/CharlyMech/code-shamer](https://github.com/CharlyMech/weatherlite))
+-  🔭 I’m currently working on: [Hestia](https://github.com/CharlyMech/hestia) & [CodeShamer (VSCode Externsion)](https://github.com/CharlyMech/code-shamer) & [Wheatherlite](https://github.com/CharlyMech/weatherlite)
 
 <!-- -  🌳 I’m currently learning: **Jetpack Compose & KMP**. -->
 
