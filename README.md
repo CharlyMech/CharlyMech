@@ -1,202 +1,157 @@
+<div align="center">
+
 ![Banner](./img/banner.png)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=charlymech&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/charlymech?style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/charlymech?style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/forks/charlymech/webviewer?style=for-the-badge&logo=github" alt="GitHub Forks"/>
-</p>
-
-# Hello world!
-
-#### My name is Carlos and I am a FullStack and Mobile software developer from Spain.
-
--  💼 Currently working at: **Volone** as a **Full Stack Developer**.
-
-<!-- -  🤝 Available for: -->
-
--  🔭 I’m currently working on: [Hestia](https://github.com/CharlyMech/hestia) (personal app) & [CodeShamer (VSCode Externsion)](https://github.com/CharlyMech/code-shamer) & [Wheatherlite](https://github.com/CharlyMech/weatherlite)
-
-<!-- -  🌳 I’m currently learning: **Jetpack Compose & KMP**. -->
-
--  🌱 What I want to learn next: **GitHub Actions**.
-
-<!-- -  📚 I’m currently studying: **AI and Big Data specialization course** at [IEDIB](https://iedib.net/). -->
-
--  📝 I also try to write articles on [Medium](https://medium.com/@CharlyMech).
-
--  💬 Ask me about: **Mobile development** or **Star Wars**.
-
--  ⚡ Fun fact: I hated JavaScript for a long time 😶.
-
-## 🛠️ Tech Stack
-
-### 👨🏽‍💻 Languages
-
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/Dart.png" alt="Dart" style="height:30px"/>
-   <img src="./img/labels/Python.png" alt="Python" style="height:30px"/>
-   <img src="./img/labels/TypeScript.png" alt="TypeScript" style="height:30px"/>
-   <img src="./img/labels/JavaScript.png" alt="JavaScript" style="height:30px"/>
-   <img src="./img/labels/Kotlin.png" alt="Kotlin" style="height:30px"/>
-   <img src="./img/labels/Java.png" alt="Java" style="height:30px"/>
-   <img src="./img/labels/PHP.png" alt="PHP" style="height:30px"/>
-   <img src="./img/labels/Bash.png" alt="Bash" style="height:30px"/>
 </div>
 
-#### 📱 For mobile app development
+<div align="left">
 
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/Flutter.png" alt="Flutter" style="height:30px"/>
-   <img src="./img/labels/Expo.png" alt="Expo" style="height:30px"/>
-   <img src="./img/labels/Jetpack Compose.png" alt="Jetpack Compose" style="height:30px"/>
+<!-- readme:stats:start -->
+
+![Profile views](https://komarev.com/ghpvc/?username=CharlyMech&label=Profile%20views&style=flat) ![GitHub followers](https://img.shields.io/github/followers/CharlyMech?style=flat) ![GithubStars](https://img.shields.io/github/stars/CharlyMech?style=flat)
+
+<!-- readme:stats:end -->
+
 </div>
 
-#### 🌐 For web development
+---
 
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/React.png" alt="React" style="height:30px"/>
-   <img src="./img/labels/NextJS.png" alt="NextJS" style="height:30px"/>
-   <img src="./img/labels/NestJS.png" alt="NestJS" style="height:30px"/>
-   <img src="./img/labels/Angular.png" alt="Angular" style="height:30px"/>
-   <img src="./img/labels/FastAPI.png" alt="FastAPI" style="height:30px"/>
+# **Carlos Sánchez Recio** · FullStack & Mobile Engineer
+
+|  |  |
+| --- | --- |
+| 💼 **Contract** | 🟢 **Full Stack Developer** @Volone |
+| 🤝 **Freelance** | 🔴 **CLOSED** |
+| 🔭 **Building** | [Hestia](https://github.com/CharlyMech/hestia) — Personal app<br/>[CodeShamer](https://github.com/CharlyMech/code-shamer) — VS Code extension<br/>[Weatherlite](https://github.com/CharlyMech/weatherlite) — Lightweight weather app |
+| 🌱 **Learning** | GitHub Actions & CI/CD · Jetpack Compose & KMP |
+| 💬 **Ask me** | `Mobile development` · `Star Wars` · `Mechanical keyboards` |
+| ⚡ **Fun fact** | I hated JavaScript for a long time — now I ship it daily 😶 |
+
+## <!-- | ✍️ **Writing** | [Medium](https://medium.com/@CharlyMech) | -->
+
+## `// STACK`
+
+<details open>
+<summary><code>// MOBILE</code></summary>
+<br/>
+
+<img src="https://svgl.app/library/dart.svg" alt="Dart" title="Dart" height="30"/> <img src="https://svgl.app/library/flutter.svg" alt="Flutter" title="Flutter" height="30"/> <img src="https://svgl.app/library/kotlin.svg" alt="Kotlin" title="Kotlin" height="30"/> <img src="https://svgl.app/library/java.svg" alt="Java" title="Java" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" height="30"/> <img src="https://svgl.app/library/swift.svg" alt="Swift" title="Swift" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" height="30"/> <img src="https://svgl.app/library/expo.svg" alt="Expo" title="Expo" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// FRONT-END</code></summary>
+<br/>
+
+<img src="https://svgl.app/library/typescript.svg" alt="TypeScript" title="TypeScript" height="30"/> <img src="https://svgl.app/library/javascript.svg" alt="JavaScript" title="JavaScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="30"/> <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Next.js" title="Next.js" height="30"/> <img src="https://svgl.app/library/astro-icon-dark.svg" alt="Astro" title="Astro" height="30"/> <img src="https://svgl.app/library/angular.svg" alt="Angular" title="Angular" height="30"/> <img src="https://svgl.app/library/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="30"/> <img src="https://svgl.app/library/vite.svg" alt="Vite" title="Vite" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// BACK-END</code></summary>
+<br/>
+
+<img src="https://svgl.app/library/nestjs.svg" alt="NestJS" title="NestJS" height="30"/> <img src="https://svgl.app/library/fastapi.svg" alt="FastAPI" title="FastAPI" height="30"/> <img src="https://svgl.app/library/nodejs.svg" alt="Node.js" title="Node.js" height="30"/> <img src="https://svgl.app/library/php.svg" alt="PHP" title="PHP" height="30"/> <img src="https://svgl.app/library/spring.svg" alt="Spring Boot" title="Spring Boot" height="30"/> <img src="https://svgl.app/library/docker.svg" alt="Docker" title="Docker" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// DATABASES</code></summary>
+<br/>
+
+<img src="https://svgl.app/library/mysql-icon-dark.svg" alt="MySQL" title="MySQL" height="30"/> <img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/> <img src="https://svgl.app/library/sqlite.svg" alt="SQLite" title="SQLite" height="30"/> <img src="https://svgl.app/library/mongodb-icon-dark.svg" alt="MongoDB" title="MongoDB" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Neo4j" title="Neo4j" height="30"/> <img src="https://svgl.app/library/redis.svg" alt="Redis" title="Redis" height="30"/> <img src="https://svgl.app/library/supabase.svg" alt="Supabase" title="Supabase" height="30"/> <img src="https://svgl.app/library/firebase.svg" alt="Firebase" title="Firebase" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// DATA & AI</code></summary>
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="30"/> <img src="https://svgl.app/library/tensorflow-icon-dark.svg" alt="TensorFlow" title="TensorFlow" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" height="30"/> <img src="https://svgl.app/library/apache-kafka-dark.svg" alt="Kafka" title="Kafka" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// CLOUD & DEVOPS</code></summary>
+<br/>
+
+<img src="https://svgl.app/library/git.svg" alt="Git" title="Git" height="30"/> <img src="https://svgl.app/library/github_dark.svg" alt="GitHub" title="GitHub" height="30"/> <img src="https://svgl.app/library/azure.svg" alt="Azure" title="Azure" height="30"/> <img src="https://svgl.app/library/linux.svg" alt="Linux" title="Linux" height="30"/> <img src="https://svgl.app/library/aws_dark.svg" alt="AWS" title="AWS" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox" height="30"/>
+
+</details>
+
+---
+
+## `// LOGS`
+
+<div align="center" style="">
+  <div align="center">
+  <!-- readme:languages:start -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/pie-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pie-light.svg">
+    <img src="./assets/pie-dark.svg" alt="Language breakdown" width="860"/>
+  </picture>
+  <!-- readme:languages:end -->
+  </div>
+
+  <div align="center">
+  <!-- readme:activity:start -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/commits-7d-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/commits-7d-light.svg">
+    <img src="./assets/commits-7d-dark.svg" alt="Last 7 Days Commits" width="860"/>
+  </picture>
+  <!-- readme:activity:end -->
+  </div>
 </div>
 
-#### 🧠 For data science and AI
+---
 
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/Scikitlearn.png" alt="Scikitlearn" style="height:30px"/>
-   <img src="./img/labels/Numpy.png" alt="Numpy" style="height:30px">
-   <img src="./img/labels/Pandas.png" alt="Pandas" style="height:30px"/>
-   <img src="./img/labels/Matplotlib.png" alt="Matplotlib" style="height:30px"/>
-   <img src="./img/labels/Keras.png" alt="Keras" style="height:30px"/>
-   <img src="./img/labels/Scikitlearn.png" alt="Scikitlearn" style="height:30px"/>
-   <img src="./img/labels/Jupyter.png" alt="Jupyter" style="height:30px"/>
+## `// GEAR`
+
+### 💻 Laptops
+
+**MacBook Pro 14" (Main)**
+
+- **CPU**: Apple M3 Pro
+- **RAM**: 18 GB
+- **SSD**: 512 GB
+- **OS**: macOS Tahoe
+
+**PCSpecialist Lafité Pro 14" (Secondary)**
+
+- **CPU**: Intel Core i5-1240P
+- **RAM**: 32 GB (upgraded)
+- **SSD**: 1 TB Samsung 980 Pro
+- **OS**: Ubuntu Desktop 24.04
+
+### 🖱️ Mice
+
+- Logitech MX Master 3
+- Apple Magic Trackpad / MacBook Pro trackpad
+
+<!-- ### ⌨️ Keyboards
+
+- Odin75 · Tecsee Purples (lubed Tribosys 3203)
+- Nextime75 · Ajazz & Huano Bananas (Krytox 205g0, double-step 57.5g springs)
+- DZ60 · Gateron Milky Yellows (Krytox 205g0, 62.5g springs)
+- MacBook Pro built-in (surprisingly good 🫣)
+
+### 📱 Debug Phones
+
+- Samsung Galaxy S23 (Android 14)
+- iPhone 13 (iOS 17) -->
+
+### 🔧 Other
+
+- HP OMEN 27q 27" QHD 2560 x 1440@165Hz monitor
+
+---
+
+## `// CONTACT`
+
+<div align="center">
+
+[![charlymech.com](https://img.shields.io/badge/charlymech.com-2563eb?style=flat-square&logoColor=white&color=2563eb)](https://charlymech.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=flat-square&logo=linkedin&logoColor=white&color=2563eb)](https://www.linkedin.com/in/carlos-sanchez-recio-dev) [![Email](https://img.shields.io/badge/Email-2563eb?style=flat-square&logo=gmail&logoColor=white&color=2563eb)](mailto:sanchezreciocarlos99@outlook.com)
+
 </div>
-
-### 📦 Other tools
-
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/Android.png" alt="Android" style="height:30px"/>
-   <img src="./img/labels/Azure.png" alt="Azure" style="height:30px"/>
-   <img src="./img/labels/Git.png" alt="Git" style="height:30px"/>
-   <img src="./img/labels/Github.png" alt="GitHub" style="height:30px"/>
-   <img src="./img/labels/Linux.png" alt="Linux" style="height:30px"/>
-   <img src="./img/labels/Proxmox.png" alt="Proxmox" style="height:30px"/>
-   <img src="./img/labels/Spark.png" alt="Spark" style="height:30px"/>
-   <img src="./img/labels/Kafka.png" alt="Kafka" style="height:30px"/>
-   <img src="./img/labels/Hadoop.png" alt="Hadoop" style="height:30px"/>
-</div>
-
-### 💾 Databases
-
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/MySQL.png" alt="MySQL" style="height:30px"/>
-   <img src="./img/labels/PostgreSQL.png" alt="PostgreSQL" style="height:30px"/>
-   <img src="./img/labels/SQLite.png" alt="SQLite" style="height:30px"/>
-   <img src="./img/labels/Mongo.png" alt="MongoDB" style="height:30px"/>
-   
-</div>
-
-### 🖼️ Design tools
-
-<div style="display: flex; gap:10px">
-   <img src="./img/labels/Figma.png" alt="Figma" style="height:30px"/>
-   <img src="./img/labels/Rive.png" alt="Rive" style="height:30px"/>
-   <img src="./img/labels/Lottie.png" alt="Lottie" style="height:30px"/>
-</div>
-
-## 🖥️ My devices and periferals
-
-### 💻 Main laptop
-
-MacBook Pro 14 inch:
-
--  **CPU**: Apple M3 Pro.
--  **RAM**: 18GB.
--  **SSD**: 512GB.
--  **OS**: macOS Sonoma.
-
-### 💻 Secondary laptop
-
-PCSpecialist Lafité Pro 14 inch:
-
--  **CPU**: Intel® Core™ i5 1240P.
--  **RAM**: 32GB (upgraded).
--  **SSD**: 1 TB SAMSUNG 980 PRO.
--  **OS**: Ubuntu Desktop 24.04.
-
-### ⌨️ My daily keyboard
-
-This is a tough one.. **I'M A KEYBOARD ENTHUSIAST!** Here you have some of my favourite ones!
-
--  Odin75 with Tecsee purples lubed with tribosis 3203.
--  Nextime75 with Ajazz&Huano Bananas lubed with Krytox 205g0 and springswaped to double step 57.5gr springs.
--  DZ60 with Gateron Milky Yellows lubed with Krytox 205g0 and springswaped to 62.5gr springs.
--  Event the MacBook kyeboard is really nice to use 🫣.
-
-### 🖱️ My mouse
-
--  Logitech MX Master 3.
--  MacBook Pro trackpad or Apple magic trackpad.
-
-## 🚀 Projects I'm most proud of
-
-<!--
-Examples:
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO/TU_REPO)
-
-[![Vercel](https://img.shields.io/badge/Vercel_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_PROYECTO.vercel.app/)
-
-[![Netlify](https://img.shields.io/badge/Netlify_App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/TU_PROYECTO/deploys)
- -->
-
-[![Timely](https://img.shields.io/badge/Timely-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/timely)
-[![CodeShamer](https://img.shields.io/badge/CodeShamer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/code-shamer)
-[![Transia](https://img.shields.io/badge/Transia_MVP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlymech/transia-mvp)
-[![2024 AdventJS](https://img.shields.io/badge/2024_AdventJS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midudev-adventjs2024.vercel.app/) [![GitHub](https://img.shields.io/badge/WebWrapper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlyMech/webwrapper) 
-
-## 🏆 My GitHub stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlyMech&theme=dark" alt="charlymech" /></a> </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlymech&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlymech&theme=dracula" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=charlymech&layout=compact&langs_count=10&theme=dracula&card_width=1000&hide=html,css,shell,scss,cmake,makefile,groovy,go,objective-c,c,c++,ruby,rust,perl,jupyter%20notebook,cypher,piglatin,hiveql,dockerfile,hack,pddl"
-    alt="Top Languages"
-  />
-</p>
-
-## 📈 My Workflow
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-## 📫 Contact
-
-You can reach out to me through the following platforms:
-
-<p align="center">
-  <a href="https://charlymech.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1565C0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linktr.ee/charlymech" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-sanchez-recio-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sanchezreciocarlos99@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01305ae43cb74e4ec6?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="https://www.freelancer.com/u/CharlyMech?sb=t" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
-  </a>
-</p>
