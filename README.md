@@ -7,9 +7,7 @@
 <div align="left">
 
 <!-- readme:stats:start -->
-
-![Profile views](https://komarev.com/ghpvc/?username=CharlyMech&label=Profile%20views&style=flat) ![GitHub followers](https://img.shields.io/github/followers/CharlyMech?style=flat) ![GithubStars](https://img.shields.io/github/stars/CharlyMech?style=flat)
-
+![GitHub followers](https://img.shields.io/github/followers/CharlyMech?style=flat) ![GithubStars](https://img.shields.io/github/stars/CharlyMech?style=flat) ![Profile views](https://komarev.com/ghpvc/?username=CharlyMech&label=Profile%20views&style=flat)
 <!-- readme:stats:end -->
 
 </div>
@@ -96,12 +94,12 @@
 
   <div align="center">
   <!-- readme:activity:start -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="./assets/commits-7d-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/commits-7d-light.svg">
-    <img src="./assets/commits-7d-dark.svg" alt="Last 7 Days Commits" width="860"/>
-  </picture>
-  <!-- readme:activity:end -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/commits-7d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/commits-7d-light.svg">
+  <img src="./assets/commits-7d-dark.svg" alt="Last 7 Days Commits" width="860"/>
+</picture>
+<!-- readme:activity:end -->
   </div>
 </div>
 
