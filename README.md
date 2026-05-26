@@ -21,7 +21,7 @@
 | 💼 **Contract** | 🟢 **Full Stack Developer** @Volone |
 | 🤝 **Freelance** | 🔴 **CLOSED** |
 | 🔭 **Building** | [Hestia](https://github.com/CharlyMech/hestia) — Personal app<br/>[CodeShamer](https://github.com/CharlyMech/code-shamer) — VS Code extension<br/>[Weatherlite](https://github.com/CharlyMech/weatherlite) — Lightweight weather app |
-| 🌱 **Learning** | GitHub Actions & CI/CD · Jetpack Compose & KMP |
+| 🌱 **Learning** | GitHub Actions & CI/CD · Jetpack Compose & KMP · n8n |
 | 💬 **Ask me** | `Mobile development` · `Star Wars` · `Mechanical keyboards` |
 | ⚡ **Fun fact** | I hated JavaScript for a long time — now I ship it daily 😶 |
 
