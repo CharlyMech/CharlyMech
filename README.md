@@ -121,7 +121,7 @@
 - **CPU**: Intel Core i5-1240P
 - **RAM**: 32 GB (upgraded)
 - **SSD**: 1 TB Samsung 980 Pro
-- **OS**: Ubuntu Desktop 24.04
+- **OS**: Windows 11
 
 ### 🖱️ Mice
 
@@ -140,10 +140,10 @@
 - Samsung Galaxy S23 (Android 14)
 - iPhone 13 (iOS 17) -->
 
-### 🔧 Other
+<!--### 🔧 Other
 
 - HP OMEN 27q 27" QHD 2560 x 1440@165Hz monitor
-
+-->
 ---
 
 ## `// CONTACT`
