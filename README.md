@@ -111,17 +111,18 @@
 
 **MacBook Pro 14" (Main)**
 
-- **CPU**: Apple M3 Pro
-- **RAM**: 18 GB
-- **SSD**: 512 GB
-- **OS**: macOS Tahoe
+- **CPU**: Apple M5 Pro
+- **RAM**: 24 GB
+- **SSD**: 1 TB
+- **OS**: macOS Tahoe 26.5.1
 
-**PCSpecialist Lafité Pro 14" (Secondary)**
+<!-- **PCSpecialist Lafité Pro 14" (Secondary)**
 
 - **CPU**: Intel Core i5-1240P
 - **RAM**: 32 GB (upgraded)
 - **SSD**: 1 TB Samsung 980 Pro
 - **OS**: Windows 11
+-->
 
 ### 🖱️ Mice
 
