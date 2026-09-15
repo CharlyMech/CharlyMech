@@ -18,7 +18,7 @@
 
 |  |  |
 | --- | --- |
-| 💼 **Contract** | 🟢 **Full Stack Developer** @Volone |
+| 💼 **Contract** | 🟢 **Principal Developer** @Volone |
 | 🤝 **Freelance** | 🔴 **CLOSED** |
 | 🔭 **Building** | [Hestia](https://github.com/CharlyMech/hestia) — Personal app<br/>[CodeShamer](https://github.com/CharlyMech/code-shamer) — VS Code extension |
 | 🌱 **Learning** | GitHub Actions & CI/CD · Jetpack Compose & KMP · n8n |
