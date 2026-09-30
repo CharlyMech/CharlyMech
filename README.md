@@ -34,7 +34,7 @@
 <summary><code>// MOBILE</code></summary>
 <br/>
 
-<img src="https://svgl.app/library/dart.svg" alt="Dart" title="Dart" height="30"/> <img src="https://svgl.app/library/flutter.svg" alt="Flutter" title="Flutter" height="30"/> <img src="https://svgl.app/library/kotlin.svg" alt="Kotlin" title="Kotlin" height="30"/> <img src="https://svgl.app/library/java.svg" alt="Java" title="Java" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" height="30"/> <img src="https://svgl.app/library/swift.svg" alt="Swift" title="Swift" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" height="30"/> <img src="https://svgl.app/library/expo.svg" alt="Expo" title="Expo" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" title="Swift" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" title="Expo" height="30"/>
 
 </details>
 
@@ -42,7 +42,7 @@
 <summary><code>// FRONT-END</code></summary>
 <br/>
 
-<img src="https://svgl.app/library/typescript.svg" alt="TypeScript" title="TypeScript" height="30"/> <img src="https://svgl.app/library/javascript.svg" alt="JavaScript" title="JavaScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="30"/> <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Next.js" title="Next.js" height="30"/> <img src="https://svgl.app/library/astro-icon-dark.svg" alt="Astro" title="Astro" height="30"/> <img src="https://svgl.app/library/angular.svg" alt="Angular" title="Angular" height="30"/> <img src="https://svgl.app/library/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="30"/> <img src="https://svgl.app/library/vite.svg" alt="Vite" title="Vite" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" title="Astro" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" title="Vite" height="30"/>
 
 </details>
 
@@ -50,7 +50,7 @@
 <summary><code>// BACK-END</code></summary>
 <br/>
 
-<img src="https://svgl.app/library/nestjs.svg" alt="NestJS" title="NestJS" height="30"/> <img src="https://svgl.app/library/fastapi.svg" alt="FastAPI" title="FastAPI" height="30"/> <img src="https://svgl.app/library/nodejs.svg" alt="Node.js" title="Node.js" height="30"/> <img src="https://svgl.app/library/php.svg" alt="PHP" title="PHP" height="30"/> <img src="https://svgl.app/library/spring.svg" alt="Spring Boot" title="Spring Boot" height="30"/> <img src="https://svgl.app/library/docker.svg" alt="Docker" title="Docker" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" height="30"/>
 
 </details>
 
@@ -58,7 +58,7 @@
 <summary><code>// DATABASES</code></summary>
 <br/>
 
-<img src="https://svgl.app/library/mysql-icon-dark.svg" alt="MySQL" title="MySQL" height="30"/> <img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/> <img src="https://svgl.app/library/sqlite.svg" alt="SQLite" title="SQLite" height="30"/> <img src="https://svgl.app/library/mongodb-icon-dark.svg" alt="MongoDB" title="MongoDB" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Neo4j" title="Neo4j" height="30"/> <img src="https://svgl.app/library/redis.svg" alt="Redis" title="Redis" height="30"/> <img src="https://svgl.app/library/supabase.svg" alt="Supabase" title="Supabase" height="30"/> <img src="https://svgl.app/library/firebase.svg" alt="Firebase" title="Firebase" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Neo4j" title="Neo4j" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="30"/>
 
 </details>
 
@@ -66,15 +66,31 @@
 <summary><code>// DATA & AI</code></summary>
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="30"/> <img src="https://svgl.app/library/tensorflow-icon-dark.svg" alt="TensorFlow" title="TensorFlow" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" height="30"/> <img src="https://svgl.app/library/apache-kafka-dark.svg" alt="Kafka" title="Kafka" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" height="30"/>
 
 </details>
 
 <details open>
-<summary><code>// CLOUD & DEVOPS</code></summary>
+<summary><code>// CLOUD</code></summary>
 <br/>
 
-<img src="https://svgl.app/library/git.svg" alt="Git" title="Git" height="30"/> <img src="https://svgl.app/library/github_dark.svg" alt="GitHub" title="GitHub" height="30"/> <img src="https://svgl.app/library/azure.svg" alt="Azure" title="Azure" height="30"/> <img src="https://svgl.app/library/linux.svg" alt="Linux" title="Linux" height="30"/> <img src="https://svgl.app/library/aws_dark.svg" alt="AWS" title="AWS" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// DEVOPS & CI/CD</code></summary>
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="30"/>
+
+</details>
+
+<details open>
+<summary><code>// TOOLS & SYSTEMS</code></summary>
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox" height="30"/>
 
 </details>
 
