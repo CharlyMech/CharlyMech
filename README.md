@@ -131,7 +131,7 @@
 - **CPU**: Apple M5 Pro
 - **RAM**: 24 GB
 - **SSD**: 1 TB
-- **OS**: macOS Tahoe 26.5.1
+- **OS**: macOS Golden Gate 27.0
 
 <!-- **PCSpecialist Lafité Pro 14" (Secondary)**
 
