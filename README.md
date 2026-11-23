@@ -19,8 +19,8 @@
 |  |  |
 | --- | --- |
 | 💼 **Contract** | 🟢 **Principal Developer** @Volone |
-| 🤝 **Freelance** | 🔴 **CLOSED** |
-| 🔭 **Building** | [Hestia](https://github.com/CharlyMech/hestia) — Personal app<br/>[CodeShamer](https://github.com/CharlyMech/code-shamer) — VS Code extension |
+| 🤝 **Freelance** | 🟢 **OPENED** |
+| 🔭 **Building** | **Freelance projects**<br/>**Hestia** — Personal all in one finance app |
 | 🌱 **Learning Myself** | Jetpack Compose & KMP · Swift & SwiftUI · Go lang |
 | 🌲 **Learning Courses/Certifications** | GitHub Actions & CI/CD · AWS |
 | 💬 **Ask me** | `Mobile development` · `Star Wars` · `Mechanical keyboards` |
